@@ -15,7 +15,7 @@ import benchmark
 from complex import ComplexSIMD, ComplexFloat64
 from math import iota
 from python import Python
-from runtime.llcl import num_cores
+#from runtime.llcl import num_cores
 from algorithm import parallelize, vectorize
 from tensor import Tensor
 from utils.index import Index
